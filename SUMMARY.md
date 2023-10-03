@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Denver, CO - U.S.](README.md)
+* [How to make an effective Gym2Gym listing](how-to-make-an-effective-gym2gym-listing.md)
 * [3 Tips For Finding The Perfect Private Trainer For You](3-tips-for-finding-the-perfect-private-trainer-for-you.md)
 * [Investing in a Home Gym: Revealing the pros and cons](investing-in-a-home-gym-revealing-the-pros-and-cons.md)
 * [Working Out at Home: Better or Worse Than Commercial Gyms?](working-out-at-home-better-or-worse-than-commercial-gyms.md)
